@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  Fitcard
+
+  Created by BoHuang on 7/27/16.
+  Copyright © 2016 BoHuang. All rights reserved.
+*/
+"messageEmptyUser" = "Täytä käyttäjänimesi";
+"messageEmptyPassword" = "Täytä salasanasi";
+"loginError" = "Salasana & käyttäjänimi eivät täsmää";
+"messageEmptyEmail" = "Täytä sähköpostisi";
+"messageInvalidEmail" = "Täytä kelvollinen sähköposti";
+"creditsMonth" = " Käyntikertaa kuukaudessa";
+"messageCvvEmpty" = "Täytä CVV";
+"messageCardEmpty" = "Täytä kortin numero";
+"noClasses" = "Ei tunteja";
+"upcomingDate" = "Seuraava tunti:";
+"noClassToday" = "Ei tunteja";
+"any" = "Any";
+"emptyCode" = "Täytä kuponkikoodi";
+"successCoupon" = "Kponkikoodi hyväksytty";
+"currentCredits" = "Tämänhetkinen treenimäärä:";
+"credits" = " Käyttökertaa";
+"messageEmptyName" = "Täytä nimi";
+"messageEmptyCity" = "Täytä kaupunki";
+"messageEmptyPhone" = "Täytä puhelin";
+"messageEmptyAddress" = "Täytä osoite";
+"profileUpdated" = "Profiili päivitetty";
+"buyCredit" = "Sinulla ei ole aktiivisia käyntikertoja, saat käyntikertoja täältä";
+"notice" = "Huomio";
+"close" = "Sulje";
+"goMember" = "Valitse jäsenyys";
+"activeUntil" = "Voimassa:";
+"close" = "Suljettu";
+"close1" = "Aloita";
+"visit" = "Käynti";
+"full" = "Täynnä";
+"closebutton" = "Sulje";
+"classes1" = "Ryhmäliikunta";
+"select" = "Valitse";
+"selected" = "Valittu";
+"success" = "Onnistui";
+"shareFacebook" = "Jaa";
+"reviews" = "Arvostelua";
+"booked" = "Varattu";
+"book" = "Varaa";
+"spotsAvailable" = "Paikkoja vapaana:";
+"emptyMessage" = "Viestisi on tyhjä";
+"messageSent" = "Viesti lähetetty";
+"mon" = "Ma";
+"tue" = "Ti";
+"wed" = "Ke";
+"thu" = "To";
+"fri" = "Pe";
+"sat" = "La";
+"sun" = "Su";
+"date" = "Aika:";
+"min" = "min";
+"messageFailProcess" = "Maksun kanssa ilmeni ongelmia, yritä uudelleen";
+"messageCleanCard" = "Kortti on poistettu";
+"messageWelcome" = "Tervetuloa FitCardiin";
+"login" = "Kirjaudu";
+"signup" = "Liity";
+"messageCharge" = "Maksu onnistui! Nauti treeneistä!";
+"cleanCard" = "Poista kortti";
+
+"cancelBook" = "Peruuta varaus";
+"yes" = "Kyllä";
+"no" = "Ei";
+"messageChangeMembership" = "Olet varma, että haluat muuttaa jäsenyyttäsi? Käyntikertasi päivittyvät ja uusi maksu veloitetaan kortiltasi";
+"close1" = "Sulje";
+"logout" = "Kirjaudu ulos";
+
+"studio" = "Kategoria";
+"amenity" = "Lisäpalvelut";
+"location" = "Kaupunki";
+
+"currentLocation" = "Current Location";
+"at" = " Klo ";
+"code" = "Ovikoodi";
+
+

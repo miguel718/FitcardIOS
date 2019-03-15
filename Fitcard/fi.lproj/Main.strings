@@ -1,0 +1,441 @@
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "0XX-aa-gmy"; */
+"0XX-aa-gmy.normalTitle" = "Käytä";
+
+/* Class = "UILabel"; text = "Last Visited"; ObjectID = "0dZ-Gx-h8M"; */
+"0dZ-Gx-h8M.text" = "Viimeisimmät käynnit";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "12f-fP-oSf"; */
+"12f-fP-oSf.text" = "Pe 22:45~22:45";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "185-Bf-cbd"; */
+"185-Bf-cbd.text" = "Pe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1bq-kX-Eoo"; */
+"1bq-kX-Eoo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1z6-Wi-JwR"; */
+"1z6-Wi-JwR.text" = "Label";
+
+/* Class = "UILabel"; text = "My Books"; ObjectID = "2Pk-s9-1gO"; */
+"2Pk-s9-1gO.text" = "Varaukset & Käynnit";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "3Ci-FE-Cp5"; */
+"3Ci-FE-Cp5.text" = "Osoite";
+
+/* Class = "UIButton"; normalTitle = "Gyms"; ObjectID = "3Gx-FW-ZAf"; */
+"3Gx-FW-ZAf.normalTitle" = "Yksin";
+
+/* Class = "UILabel"; text = "(256 Reviews)"; ObjectID = "44W-jm-zSW"; */
+"44W-jm-zSW.text" = "(256 arvostelua)";
+
+/* Class = "UILabel"; text = "Select City"; ObjectID = "4Vh-NN-GYY"; */
+"4Vh-NN-GYY.text" = "Valitse kaupunki";
+
+/* Class = "UILabel"; text = "  Email"; ObjectID = "4bj-tX-SVp"; */
+"4bj-tX-SVp.text" = "Sähköposti";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "5EW-UY-37e"; */
+"5EW-UY-37e.text" = "Pe";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "5KE-dh-3Pm"; */
+"5KE-dh-3Pm.text" = "Pe";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "5Q8-no-B8H"; */
+"5Q8-no-B8H.text" = "Pe";
+
+/* Class = "UIButton"; normalTitle = "List"; ObjectID = "5ln-Gn-QKg"; */
+"5ln-Gn-QKg.normalTitle" = "Lista";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "5nr-qK-TMt"; */
+"5nr-qK-TMt.text" = "Tili";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "7qK-et-uwI"; */
+"7qK-et-uwI.text" = "Summa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8r8-bb-fHD"; */
+"8r8-bb-fHD.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "94S-mA-7Ga"; */
+"94S-mA-7Ga.normalTitle" = "Nappi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "94a-ts-ZNL"; */
+"94a-ts-ZNL.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "963-kK-8fG"; */
+"963-kK-8fG.normalTitle" = "Valitse";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "9YX-Dq-Xca"; */
+"9YX-Dq-Xca.text" = "Pe";
+
+/* Class = "UIButton"; normalTitle = "Get Code"; ObjectID = "A2w-xv-qoT"; */
+"A2w-xv-qoT.normalTitle" = "Vahvista";
+
+/* Class = "UILabel"; text = "  User"; ObjectID = "AWo-lJ-U1Q"; */
+"AWo-lJ-U1Q.text" = "Sähköposti";
+
+/* Class = "UILabel"; text = ""; ObjectID = "B9f-NV-lGW"; */
+"B9f-NV-lGW.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "BDD-S1-1AW"; */
+"BDD-S1-1AW.normalTitle" = "Päivitä";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "BkT-9H-IFa"; */
+"BkT-9H-IFa.normalTitle" = "Lähetä";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "CUM-Uz-fYz"; */
+"CUM-Uz-fYz.text" = "Pe";
+
+/* Class = "UILabel"; text = "Pricing"; ObjectID = "CzI-dG-ehL"; */
+"CzI-dG-ehL.text" = "Jäsenyys";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DC6-ZG-ZgR"; */
+"DC6-ZG-ZgR.text" = "Label";
+
+/* Class = "UILabel"; text = "Keyword"; ObjectID = "DrF-TA-9vg"; */
+"DrF-TA-9vg.text" = "Hakusana";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "E9B-5g-sDs"; */
+"E9B-5g-sDs.normalTitle" = "29";
+
+/* Class = "UILabel"; text = ""; ObjectID = "ERJ-Zo-AWp"; */
+"ERJ-Zo-AWp.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Set Password"; ObjectID = "F7Z-Ud-y2W"; */
+"F7Z-Ud-y2W.normalTitle" = "Luo salasana";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FAq-pF-PMJ"; */
+"FAq-pF-PMJ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forget Password?"; ObjectID = "FNh-4P-X1u"; */
+"FNh-4P-X1u.normalTitle" = "Unohtuiko salasana?";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "FYb-yc-WSS"; */
+"FYb-yc-WSS.normalTitle" = ">";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "Ffc-XR-GVs"; */
+"Ffc-XR-GVs.normalTitle" = "Valitse";
+
+/* Class = "UILabel"; text = "GymName:"; ObjectID = "GHO-8C-CII"; */
+"GHO-8C-CII.text" = "Sali:";
+
+/* Class = "UIButton"; normalTitle = "Visit"; ObjectID = "Ggs-lD-ysD"; */
+"Ggs-lD-ysD.normalTitle" = "Käynti";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H58-mx-bjn"; */
+"H58-mx-bjn.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sort Distance"; ObjectID = "HPN-ma-CJn"; */
+"HPN-ma-CJn.normalTitle" = "Lähellä";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "HZg-IK-iXB"; */
+"HZg-IK-iXB.text" = "Pe 22:45~22:45";
+
+/* Class = "UILabel"; text = "  Password"; ObjectID = "Id8-WI-eJk"; */
+"Id8-WI-eJk.text" = "  Salasana";
+
+/* Class = "UILabel"; text = "  Coupon Code"; ObjectID = "JDG-Y3-oU9"; */
+"JDG-Y3-oU9.text" = "  Koodi";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "JTn-mG-zN4"; */
+"JTn-mG-zN4.text" = "Pe 22:45~22:45";
+
+/* Class = "UIButton"; normalTitle = "Sort Open"; ObjectID = "JXZ-eN-NxO"; */
+"JXZ-eN-NxO.normalTitle" = "Avoinna";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "K1n-eL-rlg"; */
+"K1n-eL-rlg.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "KLo-L5-yYU"; */
+"KLo-L5-yYU.text" = "Viesti";
+
+/* Class = "UILabel"; text = ""; ObjectID = "KX6-1X-uyc"; */
+"KX6-1X-uyc.text" = "";
+
+/* Class = "UILabel"; text = "Date:"; ObjectID = "MSM-Pi-LSl"; */
+"MSM-Pi-LSl.text" = "Aika:";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "MTL-sg-xgb"; */
+"MTL-sg-xgb.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MaI-Og-Xly"; */
+"MaI-Og-Xly.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NQt-yg-e2W"; */
+"NQt-yg-e2W.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Clear Card"; ObjectID = "NmA-yj-evY"; */
+"NmA-yj-evY.normalTitle" = "Clear Card";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "Nsm-4c-tvr"; */
+"Nsm-4c-tvr.text" = "Reviews";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O5b-ZM-j8w"; */
+"O5b-ZM-j8w.text" = "Label";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "Ob6-oE-Vdn"; */
+"Ob6-oE-Vdn.text" = "Pe";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "OzV-Zg-8HQ"; */
+"OzV-Zg-8HQ.text" = "Pe 22:45~22:45";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "P1U-lU-h5G"; */
+"P1U-lU-h5G.text" = "Ota yhteyttä";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "P8C-QQ-FRF"; */
+"P8C-QQ-FRF.normalTitle" = "Resetoi salasana";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "P9k-FC-WEY"; */
+"P9k-FC-WEY.text" = "Kirjaudu";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "PM7-O9-34x"; */
+"PM7-O9-34x.text" = "Kaupunki";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PRA-jU-37Z"; */
+"PRA-jU-37Z.text" = "Label";
+
+/* Class = "UILabel"; text = "Find Classes"; ObjectID = "Q1N-ED-SSx"; */
+"Q1N-ED-SSx.text" = "Ryhmässä";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "QUd-RD-9n4"; */
+"QUd-RD-9n4.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "Qcr-4b-EdW"; */
+"Qcr-4b-EdW.text" = "Pe";
+
+/* Class = "UILabel"; text = "(256 Reviews)"; ObjectID = "QgF-iR-3hL"; */
+"QgF-iR-3hL.text" = "(256 Arvostelua)";
+
+/* Class = "UILabel"; text = "Find Gyms"; ObjectID = "RCs-6b-ne0"; */
+"RCs-6b-ne0.text" = "Yksin";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "SOu-Ir-hus"; */
+"SOu-Ir-hus.normalTitle" = "Hae";
+
+/* Class = "UILabel"; text = "Month"; ObjectID = "TIQ-z8-kKu"; */
+"TIQ-z8-kKu.text" = "Kuukausi";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "USO-L9-hVG"; */
+"USO-L9-hVG.normalTitle" = "Kirjaudu";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "Ugv-La-aaQ"; */
+"Ugv-La-aaQ.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Keyword"; ObjectID = "VyI-Ng-r2B"; */
+"VyI-Ng-r2B.text" = "Hakusana";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "W2U-3D-BId"; */
+"W2U-3D-BId.normalTitle" = "Nappi";
+
+/* Class = "UIButton"; normalTitle = "Classes"; ObjectID = "WL3-5V-7Md"; */
+"WL3-5V-7Md.normalTitle" = "Tunnit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WRS-99-XIZ"; */
+"WRS-99-XIZ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "XGZ-in-F4g"; */
+"XGZ-in-F4g.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Y9q-wh-n7o"; */
+"Y9q-wh-n7o.text" = "Label";
+
+/* Class = "UILabel"; text = "  User"; ObjectID = "ZcN-B9-bAf"; */
+"ZcN-B9-bAf.text" = "Nimi";
+
+/* Class = "UIButton"; normalTitle = "Book"; ObjectID = "Zj0-ZH-94Y"; */
+"Zj0-ZH-94Y.normalTitle" = "Varaa";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Zy7-sS-xdz"; */
+"Zy7-sS-xdz.text" = "Osoite";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "a48-GC-x38"; */
+"a48-GC-x38.text" = "Salasana";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "a5Y-fe-PQt"; */
+"a5Y-fe-PQt.text" = "Pe";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "aNj-p6-s7W"; */
+"aNj-p6-s7W.normalTitle" = "29";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "aWO-Sw-ufQ"; */
+"aWO-Sw-ufQ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Card Number"; ObjectID = "bzR-Tf-XXE"; */
+"bzR-Tf-XXE.text" = "Kortin numero";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "cAA-r8-UCH"; */
+"cAA-r8-UCH.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "cBQ-d9-8K8"; */
+"cBQ-d9-8K8.text" = "Pe 22:45~22:45";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "cai-OP-qF1"; */
+"cai-OP-qF1.text" = "Pe";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "cbb-7L-XyF"; */
+"cbb-7L-XyF.text" = "Pe";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "cxT-Xm-bus"; */
+"cxT-Xm-bus.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "d5a-XJ-BVw"; */
+"d5a-XJ-BVw.text" = "Sähköposti";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "dXJ-SC-Ea3"; */
+"dXJ-SC-Ea3.text" = "Liity";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "dfM-LQ-Ook"; */
+"dfM-LQ-Ook.normalTitle" = "29";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "eER-ZN-Qcc"; */
+"eER-ZN-Qcc.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "edp-Dp-rIO"; */
+"edp-Dp-rIO.text" = "Pe 22:45~22:45";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "el1-Ei-B2C"; */
+"el1-Ei-B2C.text" = "Osoite:";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "fBd-nU-yFp"; */
+"fBd-nU-yFp.text" = "Sähköposti";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "fNF-yy-qdb"; */
+"fNF-yy-qdb.text" = "Pe";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "fVz-uH-VVK"; */
+"fVz-uH-VVK.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "fqj-QQ-IdY"; */
+"fqj-QQ-IdY.text" = "Pe 22:45~22:45";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "gRl-wc-75B"; */
+"gRl-wc-75B.title" = "Kartta";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "ghl-A6-foJ"; */
+"ghl-A6-foJ.text" = "Kategoria";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "gue-5R-FbR"; */
+"gue-5R-FbR.text" = "Nimi";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "hOf-Rp-eKV"; */
+"hOf-Rp-eKV.text" = "Profiili";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "htL-UP-IFn"; */
+"htL-UP-IFn.normalTitle" = "Hae";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "iND-nO-ug2"; */
+"iND-nO-ug2.text" = "Puhelin";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "igC-Di-yz5"; */
+"igC-Di-yz5.normalTitle" = "29";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "jtv-t4-mpN"; */
+"jtv-t4-mpN.normalTitle" = "Maksa";
+
+/* Class = "UILabel"; text = "  Password"; ObjectID = "jvS-pG-X4x"; */
+"jvS-pG-X4x.text" = "Salasana";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "kU0-VC-xSQ"; */
+"kU0-VC-xSQ.normalTitle" = "Liity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ksX-fg-KAb"; */
+"ksX-fg-KAb.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kw4-ej-sLY"; */
+"kw4-ej-sLY.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "l3h-Uk-gU5"; */
+"l3h-Uk-gU5.normalTitle" = "Valitse";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "l4I-6g-ccJ"; */
+"l4I-6g-ccJ.text" = "Pe";
+
+/* Class = "UILabel"; text = "Year"; ObjectID = "lTB-kf-pwR"; */
+"lTB-kf-pwR.text" = "Vuosi";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "lUA-S2-gBZ"; */
+"lUA-S2-gBZ.text" = "Puhelin";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "lfe-Ds-Aol"; */
+"lfe-Ds-Aol.normalTitle" = "Peruuta";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "lkq-L1-Up5"; */
+"lkq-L1-Up5.normalTitle" = "Liity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ltk-mn-ILV"; */
+"ltk-mn-ILV.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "mqF-dI-GI7"; */
+"mqF-dI-GI7.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Keyword"; ObjectID = "oCv-gf-109"; */
+"oCv-gf-109.text" = "Hakusana";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oiH-GO-mHg"; */
+"oiH-GO-mHg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "okJ-3u-frB"; */
+"okJ-3u-frB.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "os6-bn-FkX"; */
+"os6-bn-FkX.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "q0c-Xw-Oyl"; */
+"q0c-Xw-Oyl.text" = "Nimi";
+
+/* Class = "UILabel"; text = "E-Mail"; ObjectID = "qHy-bq-cuv"; */
+"qHy-bq-cuv.text" = "Sähköposti";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "qKL-L1-GIz"; */
+"qKL-L1-GIz.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qXL-fr-pCQ"; */
+"qXL-fr-pCQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r1K-gR-BlD"; */
+"r1K-gR-BlD.text" = "Label";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "rjT-xe-3pa"; */
+"rjT-xe-3pa.text" = "Koodi";
+
+/* Class = "UILabel"; text = "Find Gyms"; ObjectID = "sQg-rs-2nF"; */
+"sQg-rs-2nF.text" = "Yksin";
+
+/* Class = "UILabel"; text = "Category:"; ObjectID = "sa6-Ls-apb"; */
+"sa6-Ls-apb.text" = "Kategoria:";
+
+/* Class = "UIButton"; normalTitle = "29"; ObjectID = "sqi-gG-fd8"; */
+"sqi-gG-fd8.normalTitle" = "29";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "t9o-AL-XK7"; */
+"t9o-AL-XK7.text" = "Kaupunki";
+
+/* Class = "UILabel"; text = "(256 Reviews)"; ObjectID = "tHx-Lz-aKf"; */
+"tHx-Lz-aKf.text" = "(256 Arvostelua)";
+
+/* Class = "UILabel"; text = "Find Classes"; ObjectID = "tao-6N-htX"; */
+"tao-6N-htX.text" = "Ryhmässä";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "trU-kW-SsK"; */
+"trU-kW-SsK.text" = "Kirjaudu ulos";
+
+/* Class = "UIButton"; normalTitle = "Map"; ObjectID = "ua1-xl-AW1"; */
+"ua1-xl-AW1.normalTitle" = "Kartta";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "usa-lw-5Wb"; */
+"usa-lw-5Wb.text" = "Etusivu";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "v2m-JF-LG8"; */
+"v2m-JF-LG8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "vb9-2e-YD5"; */
+"vb9-2e-YD5.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "yhQ-RE-78O"; */
+"yhQ-RE-78O.text" = "CVV";
+
+/* Class = "UILabel"; text = "Fri"; ObjectID = "yxf-vM-CU5"; */
+"yxf-vM-CU5.text" = "Pe";
+
+/* Class = "UILabel"; text = "Fri 22:45~22:45"; ObjectID = "zEf-vJ-Ws2"; */
+"zEf-vJ-Ws2.text" = "Pe 22:45~22:45";

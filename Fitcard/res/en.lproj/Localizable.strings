@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  Fitcard
+
+  Created by BoHuang on 7/27/16.
+  Copyright © 2016 BoHuang. All rights reserved.
+*/
+"messageEmptyUser" = "Username is Empty";
+"messageEmptyPassword" = "Password is Empty";
+"loginError" = "Login Error";
+"messageEmptyEmail" = "Email Address Empty";
+"messageInvalidEmail" = "Invalid Email";
+"creditsMonth" = " Credits for each month";
+"messageCvvEmpty" = "CVV is Empty";
+"messageCardEmpty" = "Card Number is Empty";
+"noClasses" = "No Classes";
+"upcomingDate" = "Upcoming Class:";
+"noClassToday" = "No Class Today";
+"any" = "Any";
+"emptyCode" = "Empty Coupon Code";
+"successCoupon" = "Success Proceed Coupon code";
+"currentCredits" = "Current Credits:";
+"credits" = "Credits";
+"messageEmptyName" = "Name is Empty";
+"messageEmptyCity" = "City is Empty";
+"messageEmptyPhone" = "Phone is Empty";
+"messageEmptyAddress" = "Address is Empty";
+"profileUpdated" = "Profile Updated";
+"buyCredit" = "You have no credits, buy credits here";
+"notice" = "Notice";
+"close" = "Close";
+"goMember" = "Buy Credit";
+"activeUntil" = "Active Until:";
+"close" = "Closed";
+"close1" = "Close";
+"visit" = "Visit";
+"classes1" = "Classes";
+"full" = "Full";
+"select" = "Select";
+"selected" = "Selected";
+"closebutton" = "Close";
+"success" = "Success";
+"shareFacebook" = "Share";
+"reviews" = "Reviews";
+"booked" = "Booked";
+"book" = "Book";
+"spotsAvailable" = "Spots Available:";
+"emptyMessage" = "Empty Message";
+"messageSent" = "Message Sent";
+"wrongEmail" = "Wrong Email Address";
+"verificationCode" = "You must get Verification Code";
+"codeSent" = "Verification Code sent to your email";
+"wrongCode" = "Wrong Code";
+"mon" = "Mon";
+"tue" = "Tue";
+"wed" = "Wed";
+"thu" = "Thu";
+"fri" = "Fri";
+"sat" = "Sat";
+"sun" = "Sun";
+"date" = "Date:";
+"messageFailProcess" = "Fail to Process Payment";
+"messageCleanCard" = "Card Info Cleaned";
+"messageWelcome" = "Welcome to Fitcard";
+"login" = "Login";
+"signup" = "SignUp";
+"min" = "min";
+"messageCharge" = "Success Charged Credit";
+"cleanCard" = "Clean Card";
+"cancelBook" = "Cancel booking?";
+"yes" = "Yes";
+"no" = "No";
+"messageChangeMembership" = "Are you sue you want to change your plan? Your credits will be reset and a new payment will be deducted";
+"close1" = "Close";
+"logout" = "Logout";
+"studio" = "Studio";
+"amenity" = "Amenity";
+"location" = "Location";
+"currentLocation" = "Current Location";
+"at" = " at ";
+"code" = "Code";
+
